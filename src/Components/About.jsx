@@ -23,20 +23,19 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+const description = "Soy Ingeniera de Software con experiencia en desarrollo Full Stack y un fuerte enfoque en UI/UX. Me especializo en crear aplicaciones web intuitivas y accesibles que ofrecen experiencias de usuario excepcionales.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Desarrollo Frontend y Backend",
+  "Diseño UI/UX",
+  "React.js y Node.js",
+  "Bases de Datos SQL y NoSQL",
+  "Metodologías Ágiles",
+  "Control de Versiones con Git",
+
 ];
 
 /**
@@ -45,8 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "Apasionada por la tecnologia y la creación de comunidadess"
 const About = () => {
   return (
     <section className="padding" id="about">
